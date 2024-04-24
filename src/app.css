@@ -1,0 +1,21 @@
+.todo-content h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 40px;
+}
+.hero{
+    margin-left: 10px;
+}
+input{
+    width: 100%;
+}
+.items-container{
+    text-align:left;
+}
+.new-row{
+margin: 10px 5px;
+}
+.new-button{
+    min-width: 100px;
+}
